@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOFPatterns.AbstractFactory", "GOFPatterns.AbstractFactory\GOFPatterns.AbstractFactory.csproj", "{CCB45A84-A045-44E9-8B3F-D9CF912DD837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB45A84-A045-44E9-8B3F-D9CF912DD837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB45A84-A045-44E9-8B3F-D9CF912DD837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB45A84-A045-44E9-8B3F-D9CF912DD837}.Debug|x64.ActiveCfg = Debug|x64
+		{CCB45A84-A045-44E9-8B3F-D9CF912DD837}.Debug|x64.Build.0 = Debug|x64
+		{CCB45A84-A045-44E9-8B3F-D9CF912DD837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB45A84-A045-44E9-8B3F-D9CF912DD837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB45A84-A045-44E9-8B3F-D9CF912DD837}.Release|x64.ActiveCfg = Release|x64
+		{CCB45A84-A045-44E9-8B3F-D9CF912DD837}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E19E44A0-1AB6-439D-A9D1-CC470C3ACD3C}
+	EndGlobalSection
+EndGlobal
